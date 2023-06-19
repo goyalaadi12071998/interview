@@ -1,0 +1,10 @@
+[core]
+    name = "hogwarts"
+    host = "localhost"
+    port = 3000
+[database]
+    name = "hogwarts"
+    host = "host.docker.internal"
+    port = 3306
+    username = "root"
+    password = "password"
